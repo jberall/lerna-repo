@@ -6,6 +6,7 @@
   "homepage": "https://github.com/jberall/lerna-repo#readme",
   "license": "MIT",
   "main": "lib/avatar.js",
+  "style": "lib/avatar.css",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/jberall/lerna-repo/issues"
   },
-  "gitHead": "f1cab3d2483b7c857d63dc34207d75c027e9ae83"
+  "gitHead": "eb1eda0582438e2f50288d1b2fbb1fc35ec75d65"
 }
