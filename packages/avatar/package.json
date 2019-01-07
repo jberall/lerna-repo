@@ -6,6 +6,9 @@
   "homepage": "https://github.com/jberall/lerna-repo#readme",
   "license": "MIT",
   "main": "lib/avatar.js",
+  "umd:main": "lib/avatar.umd.js",
+  "module": "lib/avatar.mjs",
+  "source": "src/avatar.js",
   "style": "lib/avatar.css",
   "directories": {
     "lib": "lib",
