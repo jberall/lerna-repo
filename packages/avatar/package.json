@@ -22,10 +22,12 @@
     "url": "git+https://github.com/jberall/lerna-repo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "microbundle",
+    "dev": "microbundle watch"
   },
   "bugs": {
     "url": "https://github.com/jberall/lerna-repo/issues"
   },
-  "gitHead": "a142ff0cdb71de6992b87902319c1c8d1280f7ce"
+  "gitHead": "ce8f2cb64c8149b6a7ae397ecdce965ab8815848"
 }
