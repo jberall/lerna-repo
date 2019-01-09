@@ -3,6 +3,6 @@
 module.exports = avatar;
 // this is a comment
 function Avatar() {
-    // return <img src="" alt="" />
+  // return <img src="" alt="" />
 }
 // export default Avatar
