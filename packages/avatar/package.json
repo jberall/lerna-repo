@@ -1,5 +1,5 @@
 {
-  "name": "avatar",
+  "name": "@jberall-npm/avatar",
   "version": "0.0.4",
   "description": "avatar",
   "author": "Jonathan Berall <jberall@gmail.com>",
@@ -32,5 +32,5 @@
   "bugs": {
     "url": "https://github.com/jberall/lerna-repo/issues"
   },
-  "gitHead": "ce8f2cb64c8149b6a7ae397ecdce965ab8815848"
+  "gitHead": "2c4b2b3c1118b4624e87a7471358f4119837ffe9"
 }
